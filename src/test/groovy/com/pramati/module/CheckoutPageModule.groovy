@@ -32,7 +32,6 @@ class CheckoutPageModule extends Module{
         checkOutStep1ChangeButton{$("#checkout-step1 .btn.btn-small.btn-default")}
         checkOutStep2ChangeButton{$("#checkout-step2 .btn.btn-small.btn-default")}
         deliverToTheAddressButtonNew{$(".btn.btn-payment.add-to-cart.address-set.change-address")}
-        abc{$("")}
 //
 
     }
